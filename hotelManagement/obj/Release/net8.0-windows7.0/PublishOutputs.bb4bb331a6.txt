@@ -1,0 +1,15 @@
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\hotelManagement.exe
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\hotelManagement.dll
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\hotelManagement.deps.json
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\hotelManagement.runtimeconfig.json
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\hotelManagement.pdb
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\DocumentFormat.OpenXml.dll
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\DocumentFormat.OpenXml.Framework.dll
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\Microsoft.Office.Interop.Excel.dll
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\System.Data.SqlClient.dll
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\System.IO.Packaging.dll
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\runtimes\win-arm64\native\sni.dll
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\runtimes\win-x64\native\sni.dll
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\runtimes\win-x86\native\sni.dll
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\bin\Release\net8.0-windows7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

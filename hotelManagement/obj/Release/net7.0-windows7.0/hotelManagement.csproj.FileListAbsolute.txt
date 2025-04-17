@@ -1,0 +1,15 @@
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.csproj.AssemblyReference.cache
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.Properties.Resources.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.fCustomerManagement.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.View.fEmployeeManegement.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.fLogin.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.View.fMainManager.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.View.Reservations.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.View.Reservation_Services.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.View.Room.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.View.Serviceb.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.csproj.GenerateResource.cache
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.AssemblyInfoInputs.cache
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.AssemblyInfo.cs
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Release\net7.0-windows7.0\hotelManagement.csproj.CoreCompileInputs.cache

@@ -1,0 +1,83 @@
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\hotelManagement.exe
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\hotelManagement.deps.json
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\hotelManagement.runtimeconfig.json
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\hotelManagement.dll
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\hotelManagement.pdb
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.Properties.Resources.resources
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.fCustomerManagement.resources
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.fEmployeeManegement.resources
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.fLogin.resources
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.fMainManager.resources
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.Room.resources
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.AssemblyInfo.cs
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelMan.6B2B7980.Up2Date
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.dll
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\refint\hotelManagement.dll
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.pdb
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.genruntimeconfig.cache
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\ref\hotelManagement.dll
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.Reservations.resources
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.Reservation_Services.resources
+C:\Users\Admin\source\repos\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.Service.resources
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\hotelManagement.exe
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\hotelManagement.deps.json
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\hotelManagement.runtimeconfig.json
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\hotelManagement.dll
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\hotelManagement.pdb
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.Properties.Resources.resources
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.fCustomerManagement.resources
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.fEmployeeManegement.resources
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.fLogin.resources
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.fMainManager.resources
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.Reservations.resources
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.Reservation_Services.resources
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.Room.resources
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.csproj.GenerateResource.cache
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.AssemblyInfo.cs
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelMan.6B2B7980.Up2Date
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.dll
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\refint\hotelManagement.dll
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.pdb
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.genruntimeconfig.cache
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\ref\hotelManagement.dll
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\MSI\Documents\Zalo Received Files\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.Serviceb.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.csproj.AssemblyReference.cache
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.Properties.Resources.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.fCustomerManagement.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.fEmployeeManegement.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.fLogin.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.fMainManager.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.Reservations.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.Reservation_Services.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.Room.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.View.Serviceb.resources
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.csproj.GenerateResource.cache
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.AssemblyInfoInputs.cache
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.AssemblyInfo.cs
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.csproj.CoreCompileInputs.cache
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.dll
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\refint\hotelManagement.dll
+D:\Tranghaha\DO.NET\NHOM9_10DHCNPM2_CN.NET\hotelManagement\hotelManagement\obj\Debug\net8.0-windows\hotelManagement.pdb
